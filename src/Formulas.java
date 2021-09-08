@@ -1,4 +1,3 @@
-
 public class Formulas {
 
     private static final String RESULTADO = "resultado é %s";
